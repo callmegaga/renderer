@@ -1,0 +1,2 @@
+D:\VSProject\renderer\renderer\x64\Debug\renderer.exe
+D:\VSProject\renderer\renderer\x64\Debug\renderer.pdb

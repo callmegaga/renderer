@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\VSProject\renderer\renderer\main.cpp(17,38): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+D:\VSProject\renderer\renderer\main.cpp(21,45): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  renderer.vcxproj -> D:\VSProject\renderer\renderer\x64\Debug\renderer.exe
